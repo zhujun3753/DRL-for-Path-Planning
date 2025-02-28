@@ -269,7 +269,7 @@ $$
 1.0观测空间（BoxSpace）:
 
 $$
-\mathbf{s} = \mathbf{o} \subset \text{Box} \left \{ x_{0},y_{0},\dots x_{n-1},y_{n-1}  \right \}
+\mathbf{s} = \mathbf{o} \subset \text{Box} \left\{ x_{0},y_{0},\dots x_{n-1},y_{n-1}  \right \}
 $$
 
 | 观测空间             | n=6                             |
